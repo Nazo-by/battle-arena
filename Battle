@@ -2,4 +2,4 @@ git remote add origin https://github.com/Nazo-by/battle-arena.git
 
 git push -u origin master
 
-\start tamplate21
+git say hi
